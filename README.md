@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Improving my knowledge in Advance Java**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Advance Java**
 
 - 💬 Ask me about **Java, JavaScript, general software development questions.**
 
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/sameenhafsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sameenhafsa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
