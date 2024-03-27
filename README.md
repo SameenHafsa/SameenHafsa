@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Sameen Hafsa</h1>
+<h1 align="center">Hi , I am Sameen Hafsa</h1>
 <h3 align="center">A passionate software developer from Chicago</h3>
 
 - 🔭 I’m currently working on **Improving my knowledge in Java**
