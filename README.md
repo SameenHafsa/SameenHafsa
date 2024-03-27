@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Improving my knowledge in Advance Java**
 
-- 🌱 I’m currently learning **Core Java**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Java, JavaScript, general software development questions.**
 
