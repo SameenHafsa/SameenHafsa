@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Java, JavaScript, general software development question**
+- 💬 Ask me about **Software Development
+- **
 
 - 📫 How to reach me **sameenhafs@gmail.com**
 
