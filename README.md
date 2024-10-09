@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Improving my knowledge in Java**
 
-- 🌱 I’m currently learning **Java Frameworks**
+- 🌱 I’m currently learning Redux
 
 - 💬 Ask me about **Software Development**
 
