@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I am Sameen Hafsa</h1>
-<h3 align="center">A passionate software developer from Chicago</h3>
+<h1 align="center">Hi there </h1>
+<h3 align="center"> Welcome to my GitHub profile! I'm Sameen Hafsa a passionate software Engineer, dedicated to solving complex challenges with scalable and efficient solutions. I have hand hands on experience in Backend, FrontEnd Development.>
 
 - 🔭 I’m currently working on **Improving my knowledge in Java**
 
