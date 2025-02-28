@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameen Hafsa</h1>
-<h3 align="center">A passionate software Engineer, dedicated to solving complex challenges with scalable and efficient solutions. I have hand hands on experience in Backend, FrontEnd Development</h3>
+<h2 align="center">A passionate software Engineer, dedicated to solving complex challenges with scalable and efficient solutions. I have hand hands on experience in Backend, FrontEnd Development</h2>
 
 - 🌱 I’m currently learning **Go**
 
