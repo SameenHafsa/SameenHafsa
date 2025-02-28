@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameen Hafsa</h1>
-<h3 align="center">A passionate software Engineer, dedicated to solving complex challenges with scalable and efficient solutions. I have hand hands on experience in Backend, FrontEnd Development</h3>
+<p align="center">A passionate software Engineer, dedicated to solving complex challenges with scalable and efficient solutions. I have hand hands on experience in Backend, FrontEnd Development</p>
 
 - 🌱 I’m currently learning **Go**
 
@@ -17,4 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameenhafsa&show_icons=true&locale=en&layout=compact" alt="sameenhafsa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameenhafsa&show_icons=true&locale=en" alt="sameenhafsa" /></p>
