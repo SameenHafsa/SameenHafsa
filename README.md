@@ -34,12 +34,3 @@
 <a href="https://linkedin.com/in/sameenhafsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameenhafsa" height="30" width="40" /></a>
 <a href="https://instagram.com/hfsmn_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hfsmn_" height="30" width="40" /></a>
 </p>
-
-
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameenhafsa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-
