@@ -1,13 +1,13 @@
  <h1 align="center">Hi 👋, I'm Sameen Hafsa</h1>
-<p>A passionate software Engineer, dedicated to solving complex challenges with scalable and efficient solutions. I have hand hands on experience in Backend, FrontEnd Development</p>
+<p>A passionate software Engineer, dedicated to solving complex challenges with scalable and efficient solutions, hands on experience in Backend, FrontEnd Development</p>
  
 🔭 I’m currently working on: Advancing my knowledge in Software Development.
 
 👯I’m looking to collaborate on: Innovative software development initiatives.
 
-🌱 I’m currently learning: Java Frameworks
+🌱 I’m currently learning: Go
 
-💬 Ask me about: Web, Full StackDevelopment
+💬 Ask me about: Web, Full Stack Development
 
 📫 How to reach me **Sameenhafs@gmail.com**
 
