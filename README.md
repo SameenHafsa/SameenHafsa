@@ -5,7 +5,7 @@
 
 👯I’m looking to collaborate on: Innovative software development initiatives.
 
-🌱 I’m currently learning: Go
+🌱 I’m currently learning: Dsa
 
 💬 Ask me about: Web, Full Stack Development
 
